@@ -46,10 +46,12 @@ https://github.com/shimat/opencvsharp
 在这里：https://github.com/avtcn/vmbnet_freerun_missing_frames_statistics
 ## 编译运行
 可以使用[Visual Studio 2010](https://visualstudio.microsoft.com/) 或者更高版本，Vimba SDK 建议使用 [2.1.3或者更高版本](https://www.alliedvision.com/en/products/software.html)。
+
 ## 运行结果
+
+*truking-log.csv*
+
 ```
-
-
 index, 0000000001, temp, 55.500, fisrtframe, 107.711, 16frames_time, 180.517, imgproc_time, 263.296, 
 index, 0000000002, temp, 55.500, fisrtframe, 32.912, 16frames_time, 127.667, imgproc_time, 64.827, 
 index, 0000000003, temp, 55.500, fisrtframe, 31.364, 16frames_time, 126.147, imgproc_time, 56.830, 
